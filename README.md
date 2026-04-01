@@ -134,6 +134,6 @@ python main.py
 
 📌 Conclusão (esperada)
 
-Parquet → melhor performance e menor tamanho
-CSV → mais simples, porém ineficiente
-JSONL → útil para ingestão, não para análise
+- Parquet → melhor performance e menor tamanho
+- CSV → mais simples, porém ineficiente
+- JSONL → útil para ingestão, não para análise

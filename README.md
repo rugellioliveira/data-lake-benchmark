@@ -131,6 +131,7 @@ pip install pandas pyarrow
 ```bash
 python main.py
 ```
+Ou via Google Colab
 
 📌 Conclusão (esperada)
 
